@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**ChloeSilent/ChloeSilent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 I'm a web developer living in Finland.
+When I'm not coding with React and TypeScript, you might find me at the ballet barre (or maybe cheering on a performance!). The web is my playground, and I love creating beautiful and user-friendly experiences.  
 
-Here are some ideas to get you started:
+## 🗳️ Skills/Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Remix` `Zod` `Styled Components` `Firebase` `NextJS` `Figma` `Sanity`
+ 
+**Version Control:** `Git` `GitLab` `Bitbucket`
+
+**Testing:**  `Playwright` `Vitest`
+
+**Others:** `Storybook` `Posthog`
+
+##   Let's Connect! 📫 
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/shitova-olga-91589588/).
+
+
+
