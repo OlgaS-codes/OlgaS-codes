@@ -15,7 +15,7 @@ The web is my playground, and I love creating beautiful and user-friendly experi
 **Others:** `Storybook` `Posthog`
 
 ##   Let's Connect! 📫 
-For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/shitova-olga-91589588/).
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/shitova-olga/).
 
 
 
