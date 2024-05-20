@@ -4,15 +4,16 @@
 👩‍💻 I'm a web developer living in Finland.
 When I'm not coding with React and TypeScript, you might find me at the ballet barre (or maybe cheering on a performance!). 
 The web is my playground, and I love creating beautiful and user-friendly experiences.  
-👀 Check out [my website](https://www.olgashitova.com/) to learn more about me.
+
+👀 Curious to learn more? Check out [my website](https://www.olgashitova.com/).
 
 ## 🗳️ Skills/Tech
 
-**Frontend Development:** `React` `TypeScript` `Zod` `Next.js` `Remix` `Tailwind` `Material-UI` `Styled Components` `Firebase` `Figma` `Sanity` `Contentful`
+**Frontend Development:** `React` `TypeScript` `Zod` `Next.js` `Remix` `Tailwind` `Material-UI` `Styled Components` `Firebase` `Figma` `Sanity` `Contentful` `GROQ` `GraphQL`
  
 **Version Control:** `Git` `GitLab` `Bitbucket`
 
-**Testing:**  `Playwright` `Vitest`
+**Testing:**  `Playwright` `Vitest` `React Testing Library`
 
 **Others:** `Storybook` `Posthog`
 
