@@ -4,6 +4,7 @@
 👩‍💻 I'm a web developer living in Finland.
 When I'm not coding with React and TypeScript, you might find me at the ballet barre (or maybe cheering on a performance!). 
 The web is my playground, and I love creating beautiful and user-friendly experiences.  
+👀 Check out [my website](https://www.olgashitova.com/) to learn more about me.
 
 ## 🗳️ Skills/Tech
 
