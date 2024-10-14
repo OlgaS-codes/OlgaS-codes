@@ -9,7 +9,7 @@ The web is my playground, and I love creating beautiful and user-friendly experi
 
 ## 🗳️ Skills/Tech
 
-**Frontend Development:** `React` `TypeScript` `Zod` `Next.js` `Remix` `Tailwind` `Material-UI` `Styled Components` `Firebase` `Figma` `Sanity` `Contentful` `GROQ` `GraphQL`
+**Frontend Development:** `React` `TypeScript` `Zod` `Next.js` `Remix` `Tailwind` `Material-UI` `Styled Components` `Firebase` `Figma` `Sanity` `Contentful` `GROQ` `GraphQL` `Docker`
  
 **Version Control:** `Git` `GitLab` `Bitbucket`
 
