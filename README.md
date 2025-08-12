@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media1.tenor.com/m/4BkYeeOwEUgAAAAC/waving-wave.gif" data-canonical-src="https://media1.tenor.com/m/4BkYeeOwEUgAAAAC/waving-wave.gif" width="40" height="40">
 
 
-👩‍💻 I'm a web developer living in Finland.
+👩‍💻 I'm a fullstack developer living in Finland.
 When I'm not coding with React and TypeScript, you might find me at the ballet barre (or maybe cheering on a performance!). 
 The web is my playground, and I love creating beautiful and user-friendly experiences.  
 
