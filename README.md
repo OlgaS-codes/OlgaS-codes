@@ -9,13 +9,15 @@ The web is my playground, and I love creating beautiful and user-friendly experi
 
 ## 🗳️ Skills/Tech
 
-**Frontend Development:** `React` `TypeScript` `Zod` `Next.js` `Remix` `Tailwind` `Material-UI` `Styled Components` `Firebase` `Figma` `Sanity` `Contentful` `GROQ` `GraphQL` `Docker`
+**Frontend Development:** `React` `TypeScript` `Zod` `Next.js` `Remix` `Tailwind` `Material-UI` `Styled Components` `Firebase` `Figma` `Sanity` `Contentful` `GROQ` `GraphQL` 
+
+**Backend Development:** `Docker` `AWS CDK` `AWS(Lambda, Cognito, SES, DymanoDB )` `Node.js`
  
 **Version Control:** `Git` `GitLab` `Bitbucket`
 
-**Testing:**  `Playwright` `Vitest` `React Testing Library`
+**Testing:**  `Playwright` `Vitest` `React Testing Library` `Jest`
 
-**Others:** `Storybook` `Posthog`
+**Others:** `Storybook` `Posthog` `Growthbook`
 
 ##   Let's Connect! 📫 
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/shitova-olga/).
