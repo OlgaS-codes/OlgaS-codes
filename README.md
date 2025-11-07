@@ -18,8 +18,6 @@ The web is my playground, and I love creating beautiful and user-friendly experi
 
 **Others:** `Storybook` `Posthog` `Growthbook`
 
-##   Let's Connect! 📫 
-For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/shitova-olga/).
 
 
 
